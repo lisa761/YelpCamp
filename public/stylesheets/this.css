@@ -1,0 +1,17 @@
+/* SOME WEIRD PROBLEMS WITH ATTACHEMENT TO MAIN.CSS, IT KEEPS LOADING GOORM'S MAIN.CSS INSTEAD OF OURS, I GUESS IT IS BEING OVERWRITTEN BUT NOT SURE SO MADE THIS INSTEAD! CHECK WHAT'S GOING ON WHENEVER YOU CAN THO */
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.delete-form {
+	display: inline;
+}
